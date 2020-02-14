@@ -1,50 +1,50 @@
 {
-  dates: [
+  "dates": [
     {
-      03: [
+      "03": [
         {
-          7: [
+          "7": [
             {
-              hour: 11:30,
-              duration: 2
+              "hour": "11:30",
+              "duration": "2"
             },
             {
-              hour: 15:00,
-              duration: 4
+              "hour": "15:00",
+              "duration": "4"
             }
           ],
-          10: [
+          "10": [
             {
-              hour: 7:30,
-              duration: 3.5
+              "hour": "7:30",
+              "duration": "3.5"
             },
             {
-              hour: 12:00,
-              duration: 6
+              "hour": "12:00",
+              "duration": "6"
             }
           ]
         }
       ],
-      04: [
+      "04": [
         {
-          1: [
+          "1": [
             {
-              hour: 11:30,
-              duration: 2
+              "hour": "11:30",
+              "duration": "2"
             },
             {
-              hour: 11:30,
-              duration: 2
+              "hour": "11:30",
+              "duration": "2"
             }
           ],
-          4: [
+          "4": [
             {
-              hour: 11:30,
-              duration: 2
+              "hour": "11:30",
+              "duration": "2"
             },
             {
-              hour: 11:30,
-              duration: 2
+              "hour": "11:30",
+              "duration": "2"
             }
           ]
         }
