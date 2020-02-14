@@ -1,52 +1,66 @@
 {
-  "dates": [
+  "data": [
     {
-      "03": [
+      "cleaner_data": {
+        "working_days": [
+          {
+            "day": "sunday",
+            "start": "7:00",
+            "end": "16:00",
+            "enabled": true
+          },
+          {
+            "day": "monday",
+            "start": "7:00",
+            "end": "16:00",
+            "enabled": true
+          },
+          {
+            "day": "tuesday",
+            "start": "7:00",
+            "end": "16:00",
+            "enabled": false
+          },
+          {
+            "day": "wednesday",
+            "start": "7:00",
+            "end": "16:00",
+            "enabled": true
+          },
+          {
+            "day": "thrusday",
+            "start": "7:00",
+            "end": "16:00",
+            "enabled": true
+          },
+          {
+            "day": "friday",
+            "start": "00:00",
+            "end": "00:00",
+            "enabled": false
+          },
+          {
+            "day": "saturday",
+            "start": "00:00",
+            "end": "00:00",
+            "enabled": false
+          }
+        ]
+      },
+      "dates": [
         {
-          "7": [
-            {
-              "hour": "11:30",
-              "duration": "2"
-            },
-            {
-              "hour": "15:00",
-              "duration": "4"
-            }
+          "date": "2020-02-16T00:00:00.000Z",
+          "blocked_hours": [
+            "11:00",
+            "11:30",
+            "12:00"
           ],
-          "10": [
-            {
-              "hour": "7:30",
-              "duration": "3.5"
-            },
-            {
-              "hour": "12:00",
-              "duration": "6"
-            }
-          ]
-        }
-      ],
-      "04": [
+          "is_all_day_blocked": false
+        },
         {
-          "1": [
-            {
-              "hour": "11:30",
-              "duration": "2"
-            },
-            {
-              "hour": "11:30",
-              "duration": "2"
-            }
-          ],
-          "4": [
-            {
-              "hour": "11:30",
-              "duration": "2"
-            },
-            {
-              "hour": "11:30",
-              "duration": "2"
-            }
-          ]
+          "date": "2020-02-17T00:00:00.000Z",
+          "blocked_hours": [],
+          "is_all_day_blocked": true
         }
       ]
     }
