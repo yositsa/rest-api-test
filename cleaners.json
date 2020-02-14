@@ -1,0 +1,52 @@
+{
+  "cleaners": [
+    {
+      "id": 5924786798524,
+      "first_name": "יוסי",
+      "last_name": "צפר",
+      "age": 31,
+      "short_text": "אני יוסי, בתחום כבר 3 שנים, פרפקציוניסט, יסודי ומאוד אוהב את העבודה",
+      "profile_image": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
+      "experience_years": 3,
+      "rate": 70,
+      "ranks": [],
+      "extras": []
+    },
+    {
+      "id": 522456454456,
+      "first_name": "חנה",
+      "last_name": "שפיצר",
+      "age": 19,
+      "short_text": "אוהבת מאוד את העבודה ומחכה להזמנות שלכם. לוקחת הזמנות מתל-אביב, גבעתיים ורמת-גן בלבד",
+      "profile_image": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
+      "experience_years": 3,
+      "rate": 80,
+      "ranks": [],
+      "extras": []
+    },
+    {
+      "id": 453534545345,
+      "first_name": "אלדר",
+      "last_name": "צפר",
+      "age": 25,
+      "short_text": "מסודר ונקי",
+      "profile_image": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
+      "experience_years": 5,
+      "rate": 65,
+      "ranks": [],
+      "extras": []
+    },
+    {
+      "id": 868675675645,
+      "first_name": "יונתן",
+      "last_name": "קנר",
+      "age": 20,
+      "short_text": "אם אין אני לי מי לי",
+      "profile_image": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
+      "experience_years": 5,
+      "rate": 100,
+      "ranks": [],
+      "extras": []
+    }
+  ]
+}
