@@ -48,8 +48,8 @@
       "ranks": [],
       "extras": []
     }
-  ], "cleaner_data": {
-	"working_days": [
+  ],
+  "working_days": [
 	  {
 		"day": "sunday",
 		"start": "7:00",
@@ -99,8 +99,7 @@
 		"enabled": false,
 		"rate": 100
 	  }
-	]
-  },
+	],
   "dates": [
 	{
 	  "date": "2020-02-16T00:00:00.000Z",
