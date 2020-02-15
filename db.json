@@ -1,5 +1,5 @@
 {
-  "cobjects": [
+"cobjects": [
     {
       "id": 5924786798524,
       "first_name": "יוסי",
@@ -37,10 +37,7 @@
         {
           "extra_type": 1,
           "extra_text": "קיפול כביסה"
-        }
-      ],
-      "extra": [
-        {},
+        },
         {
           "extra_type": 2,
           "extra_text": "ניקיון אבק"
