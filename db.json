@@ -9,8 +9,43 @@
       "profile_image": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
       "experience_years": 3,
       "rate": 70,
-      "ranks": [],
-      "extras": []
+      "average": 4.65,
+      "ranks": [
+        {
+          "user_id": 348899132,
+          "first_name": "אופיר",
+          "last_name": "תורג'מן",
+          "rank": 5,
+          "text": "מנקה מקצועי ביותר, דפק עבודה אחושרמוטה והרים את כל הבית באוויר, אישתי הייתה בשוק"
+        },
+        {
+          "user_id": 348899133,
+          "first_name": "נועם",
+          "last_name": "אליהו",
+          "rank": 3,
+          "text": "היה בסדר"
+        },
+        {
+          "user_id": 348899134,
+          "first_name": "דנה",
+          "last_name": "דביר",
+          "rank": 4,
+          "text": "ניקה יפה מאוד"
+        }
+      ],
+      "extras": [
+        {
+          "extra_type": 1,
+          "extra_text": "קיפול כביסה"
+        }
+      ],
+      "extra": [
+        {},
+        {
+          "extra_type": 2,
+          "extra_text": "ניקיון אבק"
+        }
+      ]
     },
     {
       "id": 522456454456,
