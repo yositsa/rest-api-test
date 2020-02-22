@@ -139,63 +139,87 @@
 	  }
 	],
   "dates": [
-	{
-	  "date": "2020-02-16T00:00:00.000Z",
-	  "blocked_hours": [
-		"11:00",
-		"11:30",
-		"12:00"
-	  ],
-	  "is_all_day_blocked": false
-	},
-	{
-	  "date": "2020-02-17T00:00:00.000Z",
-	  "blocked_hours": [],
-	  "is_all_day_blocked": true
-	},
-	{
-	  "date": "2020-02-18T00:00:00.000Z",
-	  "blocked_hours": [
-		"15:00",
-		"15:30",
-		"16:00",
-		"16:30",
-		"17:00",
-		"17:30",
-		"18:00",
-		"18:30"
-	  ],
-	  "is_all_day_blocked": false
-	},
-	{
-	  "date": "2020-02-19T00:00:00.000Z",
-	  "blocked_hours": [
-		"12:00",
-		"12:30",
-		"13:00",
-		"13:30",
-		"14:00",
-		"14:30"
-	  ],
-	  "is_all_day_blocked": false
-	},
-	{
-	  "date": "2020-02-20T00:00:00.000Z",
-	  "blocked_hours": [],
-	  "is_all_day_blocked": true
-	},
-	{
-	  "date": "2020-02-21T00:00:00.000Z",
-	  "blocked_hours": [
-		"7:00",
-		"7:30",
-		"8:00",
-		"8:30",
-		"9:00",
-		"9:30",
-		"10:00"
-	  ],
-	  "is_all_day_blocked": false
-	}
-  ]
+        {
+          "date": "2020-02-16T00:00:00.000Z",
+          "blocked_hours": [
+            "11:00",
+            "11:30",
+            "12:00"
+          ],
+          "is_all_day_blocked": false
+        },
+        {
+          "date": "2020-02-17T00:00:00.000Z",
+          "blocked_hours": [],
+          "is_all_day_blocked": true
+        },
+        {
+          "date": "2020-02-18T00:00:00.000Z",
+          "blocked_hours": [
+            "15:00",
+            "15:30",
+            "16:00",
+            "16:30",
+            "17:00",
+            "17:30",
+            "18:00",
+            "18:30"
+          ],
+          "is_all_day_blocked": false
+        },
+        {
+          "date": "2020-02-19T00:00:00.000Z",
+          "blocked_hours": [
+            "12:00",
+            "12:30",
+            "13:00",
+            "13:30",
+            "14:00",
+            "14:30"
+          ],
+          "is_all_day_blocked": false
+        },
+        {
+          "date": "2020-02-20T00:00:00.000Z",
+          "blocked_hours": [],
+          "is_all_day_blocked": true
+        },
+        {
+          "date": "2020-02-21T00:00:00.000Z",
+          "blocked_hours": [
+            "7:00",
+            "7:30",
+            "8:00",
+            "8:30",
+            "9:00",
+            "9:30",
+            "10:00"
+          ],
+          "is_all_day_blocked": false
+        },
+        {
+          "date": "2020-02-26T00:00:00.000Z",
+          "blocked_hours": [
+            "7:00",
+            "7:30",
+            "8:00",
+            "8:30",
+            "9:00",
+            "9:30",
+            "10:00"
+          ],
+          "is_all_day_blocked": false
+        },
+        {
+          "date": "2020-02-27T00:00:00.000Z",
+          "blocked_hours": [
+            "7:00",
+            "7:30",
+            "8:00",
+            "8:30",
+            "9:00"
+          ],
+          "is_all_day_blocked": false
+        }
+      ]
 }
