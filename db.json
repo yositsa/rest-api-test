@@ -242,6 +242,39 @@
             "17:00"
           ],
           "is_all_day_blocked": false
+        },
+        {
+          "date": "2020-03-02T00:00:00.000Z",
+          "blocked_hours": [
+            "7:00",
+            "7:30",
+            "8:00",
+            "8:30",
+            "9:00"
+          ],
+          "is_all_day_blocked": false
+        },
+        {
+          "date": "2020-03-17T00:00:00.000Z",
+          "blocked_hours": [
+            "9:00",
+            "9:30",
+            "10:00",
+            "10:30",
+            "11:00"
+          ],
+          "is_all_day_blocked": false
+        },
+        {
+          "date": "2020-03-21T00:00:00.000Z",
+          "blocked_hours": [
+            "14:00",
+            "14:30",
+            "15:00",
+            "15:30",
+            "16:00"
+          ],
+          "is_all_day_blocked": false
         }
       ]
 }
