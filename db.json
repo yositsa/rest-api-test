@@ -59,8 +59,21 @@
       "profile_image": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
       "experience_years": 3,
       "rate": 80,
-      "ranks": [],
-      "reviews": []
+      "reviews": [],
+	  "extras": [
+	          {
+          "extra_type": 1,
+          "extra_text": "קיפול כביסה"
+        },
+        {
+          "extra_type": 2,
+          "extra_text": "ניקיון אבק"
+        },
+        {
+          "extra_type": 3,
+          "extra_text": "שטיפת כלים"
+        }
+	  ]
     },
     {
       "id": "453534545345",
@@ -72,7 +85,12 @@
       "experience_years": 5,
       "rate": 65,
       "reviews": [],
-      "extras": []
+      "extras": [
+      {
+          "extra_type": 2,
+          "extra_text": "ניקיון אבק"
+        }
+		]
     },
     {
       "id": "868675675645",
@@ -84,7 +102,12 @@
       "experience_years": 5,
       "rate": 100,
       "reviews": [],
-      "extras": []
+      "extras": [
+      {
+          "extra_type": 1,
+          "extra_text": "קיפול כביסה"
+        }
+      ]
     }
   ],
   "working_days": [
