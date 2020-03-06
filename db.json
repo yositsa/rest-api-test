@@ -37,6 +37,24 @@
           "image_profile": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
           "rank": 4,
           "text": "ניקה יפה מאוד"
+        },
+        {
+          "date": "2019-05-22T20:00:00.000Z",
+          "user_id": "348899135",
+          "first_name": "שמוליק",
+          "last_name": "דמשהו",
+          "image_profile": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
+          "rank": 5,
+          "text": "זה סתם הולך להיות טקסט ארוך מאוד על מנת להבין ולדעת איך זה מתנהג כשיש כמה שורות של ביקורת, אולי זה לא נותן את הכל? אולי כן, עכשיו נדע בוודאו!"
+        },
+        {
+          "date": "2014-03-22T20:00:00.000Z",
+          "user_id": "348899136",
+          "first_name": "שמוליק",
+          "last_name": "דמשהו",
+          "image_profile": "https://www.jumpstarttech.com/files/2018/08/Network-Profile.png",
+          "rank": 5,
+          "text": "זה טקסט של ביקורת שמשלב מספרים, לדוגמא 5 ו-6 וגם משלב מילים באנגלית בגלל שאי אפשר לדעת לעולם איך זה יתנהג, אז will it work? עכשיו נדע בוודאות!"
         }
       ],
       "extras": [
