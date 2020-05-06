@@ -9,7 +9,7 @@
       "subtitle": null,
       "url": null,
       "cleaner": {
-        "id": 20000
+        "id": 20000,
         "name": "אור הללי",
         "image": "https://brightbridgesolutions.com/wp-content/uploads/2017/12/team-placeholder.png"
       }
@@ -23,7 +23,7 @@
       "subtitle": null,
       "url": null,
       "cleaner": {
-        "id": 20001
+        "id": 20001,
         "name": "אלדר צפר",
         "image": "https://brightbridgesolutions.com/wp-content/uploads/2017/12/team-placeholder.png"
       }
@@ -37,7 +37,7 @@
       "subtitle": null,
       "url": null,
       "cleaner": {
-        "id": 20000
+        "id": 20000,
         "name": "אור הללי",
         "image": "https://brightbridgesolutions.com/wp-content/uploads/2017/12/team-placeholder.png"
       }
@@ -51,7 +51,7 @@
       "subtitle": null,
       "url": null,
       "cleaner": {
-        "id": 20000
+        "id": 20000,
         "name": "אור הללי",
         "image": "https://brightbridgesolutions.com/wp-content/uploads/2017/12/team-placeholder.png"
       }
@@ -65,7 +65,7 @@
       "subtitle": null,
       "url": null,
       "cleaner": {
-        "id": 20001
+        "id": 20001,
         "name": "אלדר צפר",
         "image": "https://brightbridgesolutions.com/wp-content/uploads/2017/12/team-placeholder.png"
       }
@@ -79,7 +79,7 @@
       "subtitle": "\"טקסט של הודעה\"",
       "url": "\"http://www.google.com/\"",
       "cleaner": {
-        "id": 20001
+        "id": 20001,
         "name": "אלדר צפר",
         "image": "https://brightbridgesolutions.com/wp-content/uploads/2017/12/team-placeholder.png"
       }
