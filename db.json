@@ -1,5 +1,7 @@
 {
-  "notifications": [
+  "error_code": 200,
+  "error_message": "success",
+  "content": [
     {
       "id": 70001,
       "type": 1,
